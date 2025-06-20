@@ -1,0 +1,19 @@
+[[plugin.deps]]
+use = "dedukun/bookmarks"
+rev = "fbb7c00"
+hash = "1d231a808d3344546380df33daf43e91"
+
+[[plugin.deps]]
+use = "AnirudhG07/rich-preview"
+rev = "843c3fa"
+hash = "b4040931f0d2f9670ddb4923e55cd881"
+
+[[plugin.deps]]
+use = "Lil-Dank/lazygit"
+rev = "7a08a09"
+hash = "a1fa2b3e1826c3a34804ea8c548e9f80"
+
+[[flavor.deps]]
+use = "yazi-rs/flavors:dracula"
+rev = "d04a298"
+hash = "7b9ff01a0070cc9176e0c683329aeb26"
