@@ -5,6 +5,6 @@ return {
     "nvim-lua/plenary.nvim",
   },
   keys = {
-    { "<leader>e", "<cmd>Yazi<CR>", desc = "Toggle Yazi" },
+    { "<leader>y", "<cmd>Yazi<CR>", desc = "Toggle Yazi" },
   },
 }
