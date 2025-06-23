@@ -2,7 +2,7 @@ return {
   {
     "lervag/vimtex",
     lazy = false,
-    init = function()
+    config = function()
       -- 设置 pdf 阅读器；macOS 可设置为 skim
       vim.g.vimtex_view_method = "zathura"
       -- 编译报错时不自动弹出错误窗口 :copen 手动打开

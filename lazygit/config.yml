@@ -1,2 +1,6 @@
+git:
+  paging:
+    pager: "delta --dark --paging=never" # 自定义差异查看器
+    colorArg: always
 os:
-  editCommand: "nvim" # as an example
+  edit: "nvim {{filename}}"
