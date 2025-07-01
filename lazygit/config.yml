@@ -4,3 +4,5 @@ git:
     colorArg: always
 os:
   edit: "nvim {{filename}}"
+gui:
+  language: zh-CN
